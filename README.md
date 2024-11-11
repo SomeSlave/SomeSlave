@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SomeSlave
-- 👀 I’m interested in HTML\CSS\JavaScript\Node.js
-- 🌱 I’m currently learning Electron and Telegram Bot's
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Telegram Bot's
 - 💞️ I’m loking for collaborate
 - 📫 I'm almost unreachable
 
